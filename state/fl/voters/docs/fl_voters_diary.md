@@ -145,8 +145,7 @@ uploaded to the Workshop’s AWS server.
 
 ## Download
 
-The raw data from the disk can be downloaded from the Workshop’s AWS
-server.
+The raw data from the disk can be downloaded. 
 
 ``` r
 aws_info <- get_bucket_df(
